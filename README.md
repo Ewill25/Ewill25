@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ewill25
 - 👀 I’m interested in Basketball, Gaming (Xbox Series X, Mac, and Mobile), and exercise.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on any projects to expand my learning.
 - 📫 How to reach me Ewill25
 
